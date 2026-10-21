@@ -8,7 +8,15 @@ organizers:
       title: "Personal Website"
       url: "https://costashatz.github.io/"
     image_url: "/assets/team/konstantinos.jpg"
-  
+  - name: "Yanran Ding"
+    affiliation:
+      role: "Assistant Professor"
+      org_name: "University of Michigan, Department of Robotics, Ann Arbor, MI, USA"
+      url: "https://umich.edu/"
+    website:
+      title: "Personal Website"
+      url: "https://sites.google.com/view/yanranding/home"
+    image_url: "/assets/team/yanran.jpg" 
   - name: "Shivesh Kumar"
     affiliation:
       role: "Assistant Professor"
@@ -18,17 +26,6 @@ organizers:
       title: "Personal Website"
       url: "https://www.chalmers.se/en/persons/shivesh/"
     image_url: "/assets/team/shivesh.png"
-  
-  - name: "Zachary Manchester"
-    affiliation:
-      role: "Assistant Professor"
-      org_name: "Carnegie Mellon University"
-      url: "https://www.ri.cmu.edu/"
-    website:
-      title: "Lab Website"
-      url: "https://rexlab.ri.cmu.edu/"
-    image_url: "/assets/team/zac.jpg"
-  
   - name: "Brian Plancher"
     affiliation:
       role: "Assistant Professor"
@@ -38,93 +35,14 @@ organizers:
       title: "Personal Website"
       url: "https://brianplancher.com/"
     image_url: "/assets/team/brian.jpg"
-  
-  - name: "Patrick Wensing"
+  - name: "Frederike Dümbgen"
     affiliation:
-      role: "Associate Professor"
-      org_name: "University of Notre Dame"
-      url: "https://www.nd.edu/"
+      role: "Assistant Professor"
+      org_name: "Carnegie Mellon University, Pittsburgh, Pennsylvania, USA"
+      url: "https://www.cmu.edu/"
     website:
       title: "Personal Website"
-      url: "https://sites.nd.edu/pwensing/"
-    image_url: "/assets/team/patrick.jpg"
-  
-  - name: "Enrico Mingo Hoffman"
-    affiliation:
-      role: "ISFP Researcher"
-      org_name: "INRIA Nancy Grand-Est"
-      url: "https://www.inria.fr/fr"
-    website:
-      title: "Personal Website"
-      url: "https://members.loria.fr/EMingoHoffman/"
-    image_url: "/assets/team/enrico.jpg"
-
+      url: "https://duembgen.github.io/"
+    image_url: "/assets/team/frederike.jpg"
 speakers:
-  - name: "Kostas Alexis"
-    affiliation:
-      role: "Professor"
-      org_name: "Norwegian University of Science and Technology (NTNU)"
-      url: "https://www.autonomousrobotslab.com/"
-    website:
-      title: "Personal Website"
-      url: "https://www.ntnu.edu/employees/konstantinos.alexis"
-    image_url: "/assets/team/alexis.png"
-  # - name: "Luca Carlone (TBC)"
-  #   affiliation:
-  #     role: "Associate Professor"
-  #     org_name: "Massachusetts Institute of Technology (MIT)"
-  #     url: "https://aeroastro.mit.edu/"
-  #   website:
-  #     title: "Personal Website"
-  #     url: "https://lucacarlone.mit.edu/"
-  #   image_url: "/assets/team/luca.png"
-
-  # - name: "Yuval Tassa"
-  #   affiliation:
-  #     role: "Senior Research Scientist"
-  #     org_name: "Google DeepMind"
-  #     url: "https://deepmind.google/"
-  #   website:
-  #     title: "LinkedIn"
-  #     url: "https://uk.linkedin.com/in/yuval-tassa-0ba2924a"
-  #   image_url: "/assets/team/yuval.jpeg"
-
-  # - name: "Tom Erez"
-  #   affiliation:
-  #     role: "Research Scientist"
-  #     org_name: "Google DeepMind"
-  #     url: "https://deepmind.google/"
-  #   website:
-  #     title: "LinkedIn"
-  #     url: "https://uk.linkedin.com/in/ereztom"
-  #   image_url: "/assets/team/tom.jpeg"
-    
-  - name: "Hae-Won Park"
-    affiliation:
-      role: "Associate Professor"
-      org_name: "Korea Advanced Institute of Science & Technology (KAIST)"
-      url: "https://www.kaist.ac.kr/en/"
-    website:
-      title: "LinkedIn"
-      url: "https://www.linkedin.com/in/hae-won-park-b2120336"
-    image_url: "/assets/team/haewon.jpeg"
-
-  - name: "Andrea Del Prete"
-    affiliation:
-      role: "Associate Professor"
-      org_name: "University of Trento"
-      url: "https://www.dii.unitn.it/"
-    website:
-      title: "Personal Website"
-      url: "https://andreadelprete.github.io/"
-    image_url: "/assets/team/andrea.jpg"
-
-  - name: "Serena Ivaldi"
-    affiliation:
-      role: "Senior Research Scientist"
-      org_name: "INRIA Nancy Grand-Est"
-      url: "https://www.inria.fr/fr"
-    website:
-      title: "Personal Website"
-      url: "https://members.loria.fr/SIvaldi/"
-    image_url: "/assets/team/serena.jpeg"
+ 

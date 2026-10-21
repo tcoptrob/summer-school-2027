@@ -23,4 +23,4 @@ In order to enhance diversity within our community and make the summer school mo
 - People who have stepped down from the field for some time and want to return (e.g., due to a disease or parental leave)
 - Secondary/undergrad/graduate students interested in robotics or automation topics who face barriers to attendance at major conferences
 
-If you fall into one of these categories, please choose tha appropriate fields in the application form.
+If you fall into one of these categories, please choose the appropriate fields in the application form.
