@@ -6,9 +6,9 @@ plugins:
 remote_theme: dhilanr/jekyll-theme-crestlex
 
 url: https://www.tcoptrob.org
-baseurl: /summer-school-2026
+baseurl: /summer-school-2027
 
-title: 2026 Optimization for Robotics Summer School
+title: 2027 Optimization for Robotics Summer School
 
 # alert:
 #     - success
