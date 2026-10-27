@@ -8,15 +8,6 @@ organizers:
       title: "Personal Website"
       url: "https://costashatz.github.io/"
     image_url: "/assets/team/konstantinos.jpg"
-  - name: "Yanran Ding"
-    affiliation:
-      role: "Assistant Professor"
-      org_name: "University of Michigan, Department of Robotics, Ann Arbor, MI, USA"
-      url: "https://umich.edu/"
-    website:
-      title: "Personal Website"
-      url: "https://sites.google.com/view/yanranding/home"
-    image_url: "/assets/team/yanran.jpg" 
   - name: "Shivesh Kumar"
     affiliation:
       role: "Assistant Professor"
@@ -26,6 +17,15 @@ organizers:
       title: "Personal Website"
       url: "https://www.chalmers.se/en/persons/shivesh/"
     image_url: "/assets/team/shivesh.png"
+  - name: "Zachary Manchester"
+    affiliation:
+      role: "Assistant Professor"
+      org_name: "Carnegie Mellon University"
+      url: "https://www.ri.cmu.edu/"
+    website:
+      title: "Lab Website"
+      url: "https://rexlab.ri.cmu.edu/"
+    image_url: "/assets/team/zac.jpg"
   - name: "Brian Plancher"
     affiliation:
       role: "Assistant Professor"
@@ -35,14 +35,15 @@ organizers:
       title: "Personal Website"
       url: "https://brianplancher.com/"
     image_url: "/assets/team/brian.jpg"
-  - name: "Frederike Dümbgen"
+  - name: "Enrico Mingo Hoffman"
     affiliation:
-      role: "Assistant Professor"
-      org_name: "Carnegie Mellon University, Pittsburgh, Pennsylvania, USA"
-      url: "https://www.cmu.edu/"
+      role: "ISFP Researcher"
+      org_name: "INRIA Nancy Grand-Est"
+      url: "https://www.inria.fr/fr"
     website:
       title: "Personal Website"
-      url: "https://duembgen.github.io/"
-    image_url: "/assets/team/frederike.jpg"
+      url: "https://members.loria.fr/EMingoHoffman/"
+    image_url: "/assets/team/enrico.jpg"
 speakers:
  
+

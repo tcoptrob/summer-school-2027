@@ -13,7 +13,6 @@ We aim to have 100 participants, targeting **master students, early PhD students
 - We will prioritize participants from groups (3), (2) & (4) (in that order) and select randomly.
 - Finally, we will select which participants receive financial support after carefully examining the submitted applications.
 
-
 # Eligibility for Travel Awards/Fee Waiver
 
 In order to enhance diversity within our community and make the summer school more accessible, we will offer several scholarships aimed at reducing the cost of participation for attendees. **In particular, 15% of all sponsorship funds will be allocated to waiving registration and lodging fees for participants from under-represented groups.** We will prioritize students who affiliate with:

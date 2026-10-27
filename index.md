@@ -13,7 +13,9 @@ title: Optimization for Robotics Summer School 2027
 <!-- <br>[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }})! See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details. -->
 
 <div class="message">
-  To learn more about the IEEE RAS TC on Optimization for Robotics please visit <a href="https://tcoptrob.org">our webpage</a>!
+  To learn more about the IEEE RAS TC on Optimization for Robotics, please visit <a href="https://tcoptrob.org"> their webpage</a>!
+  <br/>
+    To learn more about the IEEE RAS TC on Whole-Body Control, please visit <a href="https://ieeewbc.org">their webpage</a>!
 </div>
 
 Optimization algorithms form the bedrock of much of robotics, from machine learning to control, state estimation, and simulation. However, the research literature on these topics is vast and different communities often use different notation and terminology to describe similar ideas, making it difficult to see the deep connections between these areas. 
@@ -29,9 +31,9 @@ The Optimization for Robotics Summer School will cover:
 
 **Attendee Cost:**
 + Registration without accommodation:
-   + Early-bird (until April 1st, 2027): €350
-   + Standard: €450
-   + Late/On-site: €500
+   + Early-bird (until April 1st, 2027): €**X**
+   + Standard: €**X**
+   + Late/On-site: €**X**
 + Travel awards and/or fee waivers will be given to selected students
 
  See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details.
@@ -40,25 +42,26 @@ The Optimization for Robotics Summer School will cover:
 
 ### Venue & Social Events
 
-All the activities (except for the dinner) of the summer school will happen in the [**ENTER BUILDING NAME HERE**](). More details about the social events and the venue can be found [here]({{ "/logistics" | relative_url }}).
+All the activities (except for the dinner) of the summer school will happen in the [Chalmers Conference Centre](https://www.chalmerskonferens.se/). More details about the social events and the venue can be found [here]({{ "/logistics" | relative_url }}).
 
 ### Slides and Other Material
 
-The lecture slides and other material will become available [~~here~~(NOT YET)]().
+The lecture slides and other material will be made available at a later date.
 
-Code for most of the practicals will also be available through a [~~GitHub repository~~(NOT YET)]().
+Code for the practicals will also be made available through a GitHub repository.
 
-All the recordings from the lectures are available [~~here~~(NOT YET)]().
+All the recordings from the previous summer school's lectures are available [here](http://youtube.com/playlist?list=PL6YqvXk7hmsk0jkSrJYq7x7oq7maJyqJ-). After the summer school, we will provide a link to the new set of lectures.
+
+
 
 ### Schedule
 Each day will consist of a mix of background on key topics, hands-on examples both in software and with select hardware deployments, and research talks from leaders in the field.
 
 **Overview**
 
-A detailed overview of the full schedule will be posted soon!
+An overview of the schedule can be found below. Additional speakers will be added as we near the summer school!
 <!--The full detailed schedule is available [**here**]().-->
-
-<!--{% include schedule_table table_data = site.data.schedule %}-->
+{% include schedule_table table_data = site.data.schedule %}
 
 ### Questions?
 Contact us at [shivesh.kumar@chalmers.se](mailto:shivesh.kumar@chalmers.se) with any questions regarding the summer school.

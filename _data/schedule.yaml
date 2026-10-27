@@ -2,131 +2,92 @@ headers:
  - "Day"
  - "Date"
  - "Topics"
- - "Speakers and Materials"
+ - "Speakers"
 
 days:
   - number: "1"
     dayOfWeek: "Monday"
     name: "Optimization Background"
     schedule:
-      - time: "Morning"
-        name: "Introduction to Optimization I"
-      - time: "Noon"
-        name: "Introduction to Optimization II"
-      - time: "Afternoon"
-        name: "Introduction to Robotics & Dynamics"
+      - time: "Lecture"
+        name: "Introduction to Optimization"
+      - time: "Plenary Talk"
+        name: "Recent Progress in Legged Robotics"
+      - time: "Lecture"
+        name: "Optimization-based Robotics Dynamics"
+      - time: "Practical session"
+        name: "Optimization and Dynamics"
     speakers:
-      - name: "Konstantinos Chatzilygeroudis"
-        affiliation:
-          name: "University of Patras"
-          website: "https://lar.upatras.gr/"
-      # - name: "Zachary Manchester"
-      #   affiliation:
-      #     name: "Carnegie Mellon University"
-      #     website: "https://rexlab.ri.cmu.edu/"
-      - name: "Shivesh Kumar"
-        affiliation:
-          name: "Chalmers University and DFKI GmbH"
-          website: "https://www.chalmers.se/en/"
-      # - name: "Patrick Wensing"
-      #   affiliation:
-      #     name: "University of Notre Dame"
-      #     website: "https://www.nd.edu/"
-      # - name: "Brian Plancher"
-      #   website: "https://brianplancher.com/"
-      #   affiliation:
-      #     name: "Dartmouth College"
-      #     website: "https://home.dartmouth.edu/"
-      #   links:
-      #     - title: "Google Slides"
-      #       url: "https://docs.google.com/presentation/d/1_QLwOgnZLqyXRAJxxJYI6bhM8vO2Q_pm_EzQkwI71AE/"
-      #     - title: "PDF Slides"
-      #       url: "/assets/slides/Brian-Responsible-TinyML.pdf"
-      #       local: "1"
-
+    - name: "Konstantinos Chatzilygeroudis"
+      affiliation:
+        name: "University of Patras"
+        website: "https://lar.upatras.gr/"
+    - name: "Shivesh Kumar"
+      affiliation:
+        name: "Chalmers University of Technology"
+        website: "https://www.chalmers.se/en/"
   - number: "2"
     dayOfWeek: "Tuesday"
     name: "Optimal Control"
     schedule:
-      - time: "Morning"
-        name: "Trajectory Optimization and Numerical Optimal Control I"
-      - time: "Noon"
-        name: "Versatile and Dynamic Legged Robots: From Hardware Design to Control Algorithms (Plenary Talk)"
-      - time: "Afternoon"
-        name: "Trajectory Optimization and Numerical Optimal Control II"
+      - time: "Lecture"
+        name: "Trajectory optimization"
+      - time: "Plenary Talk"
+        name: "Robot Co-Design"
+      - time: "Lecture"
+        name: "Model Predictive Control"
+      - time: "Practical session"
+        name: "Optimal control"
     speakers:
-      # - name: "Zachary Manchester"
-      #   affiliation:
-      #     name: "Carnegie Mellon University"
-      #     website: "https://rexlab.ri.cmu.edu/"
-      # - name: "Enrico Mingo Hoffman"
-      #   affiliation:
-      #     name: "INRIA Nancy Grand-Est"
-      #     website: "https://www.inria.fr/fr"
-      - name: "Hae-Won Park (Plenary Speaker)"
-        affiliation:
-          name: "Korea Advanced Institute of Science & Technology (KAIST)"
-          website: "https://www.kaist.ac.kr/en/"
-      - name: "Brian Plancher"
-        website: "https://brianplancher.com/"
-        affiliation:
-          name: "Dartmouth College"
-          website: "https://home.dartmouth.edu/"
-
+    - name: "Brian Plancher"
+      website: "https://brianplancher.com/"
+      affiliation:
+        name: "Dartmouth College"
+        website: "https://home.dartmouth.edu/"
+    - name: "Enrico Mingo Hoffman"
+      affiliation:
+        name: "INRIA Nancy Grand-Est"
+        website: "https://www.inria.fr/fr"
   - number: "3"
     dayOfWeek: "Wednesday"
-    name: "Reinforcement Learning and Optimal Control"
+    name: "Reinforcement Learning"
     schedule:
-      - time: "Morning"
-        name: "Real-Time Model-Predictive Control for Robotics"
-      - time: "Noon"
-        name: "Introduction to Reinforcement Learning"
-      - time: "Afternoon"
-        name: "Combining Reinforcement Learning and Optimal Control"
+      - time: "Lecture"
+        name: "Reinforcement Learning"
+      - time: "Plenary Talk"
+        name: "Combining Reinforcement Learning & optimal control"
+      - time: "Lecture"
+        name: "Sim2Real Transfer"
+      - time: "Practical session"
+        name: "Reinforcement Learning and Sim2Real"
     speakers:
-      - name: "Enrico Mingo Hoffman"
-        affiliation:
-          name: "INRIA Nancy Grand-Est"
-          website: "https://www.inria.fr/fr"
-      - name: "Andrea Del Prete"
-        affiliation:
-          name: "University of Trento"
-          website: "https://www.dii.unitn.it/"
-      # - name: "Yuval Tassa"
-      #   affiliation:
-      #     name: "Google DeepMind"
-      #     website: "https://deepmind.google/"
-      # - name: "Tom Erez"
-      #   affiliation:
-      #     name: "Google DeepMind"
-      #     website: "https://deepmind.google/"
-      - name: "Konstantinos Chatzilygeroudis"
-        affiliation:
-          name: "University of Patras"
-          website: "https://lar.upatras.gr/"
+    - name: "Konstantinos Chatzilygeroudis"
+      affiliation:
+        name: "University of Patras"
+        website: "https://lar.upatras.gr/"
+    - name: "Shivesh Kumar"
+      affiliation:
+        name: "Chalmers University of Technology"
+        website: "https://www.chalmers.se/en/"
   - number: "4"
     dayOfWeek: "Thursday"
-    name: "State Estimation and Simulation"
+    name: "Differentiable Simulation and State Estimation"
     schedule:
       - time: "Morning"
         name: "Differentiable Simulation for Robotics"
       - time: "Noon"
         name: "Resilient Multi-modal Perception"
       - time: "Afternoon"
-        name: "State Estimation for Robotics"
+        name: "State Estimation and SLAM"
     speakers:
-      - name: "Kostas Alexis (Plenary Speaker)"
-        affiliation:
-          name: "Norwegian University of Science and Technology (NTNU)"
-          website: "https://www.autonomousrobotslab.com/"
+    - name: "Zachary Manchester"
+      affiliation:
+        name: "Carnegie Mellon University"
+        website: "https://rexlab.ri.cmu.edu/"
       # - name: "Luca Carlone"
       #   affiliation:
       #     name: "Massachusetts Institute of Technology (MIT)"
       #     website: "https://aeroastro.mit.edu/"
-      - name: "Zachary Manchester"
-        affiliation:
-          name: "Carnegie Mellon University"
-          website: "https://rexlab.ri.cmu.edu/"
       # - name: "Konstantinos Chatzilygeroudis"
       #   affiliation:
       #     name: "University of Patras"
@@ -136,20 +97,10 @@ days:
     dayOfWeek: "Friday"
     name: "Hands-On Sessions (Simulation and Hardware)"
     schedule:
-      - time: "Morning"
-        name: "The new Human Centered Robotics team at Inria Nancy: from humanoids to exoskeletons (Plenary Talk)"
-      - time: "All day"
-        name: "Hands-On Sessions and Deployment on Robots"
-    speakers:
-      - name: "Serena Ivaldi (Plenary Speaker)"
-        affiliation:
-          name: "INRIA Nancy Grand-Est"
-          website: "https://www.inria.fr/fr"
-      - name: "Konstantinos Chatzilygeroudis"
-        affiliation:
-          name: "University of Patras"
-          website: "https://lar.upatras.gr/"
-      - name: "Shivesh Kumar"
-        affiliation:
-          name: "Chalmers University and DFKI GmbH"
-          website: "https://www.chalmers.se/en/"
+      - time: "Hardware Hackathon"
+        name: "Simulation Validation"
+      - time: "Plenary"
+        name: "Industry Presentations"
+      - time: "Hardware Hackathon"
+        name: "Robot Deployment"
+
