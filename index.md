@@ -42,7 +42,7 @@ The Optimization for Robotics Summer School will cover:
 
 ### Venue & Social Events
 
-All the activities (except for the dinner) of the summer school will happen in the [Chalmers Conference Centre](https://www.chalmerskonferens.se/). More details about the social events and the venue can be found [here]({{ "/logistics" | relative_url }}).
+All the activities (except for the dinner) of the summer school will happen in the [Chalmers Conference Centre](https://www.chalmerskonferens.se/). More details about the social events, the venue, and partnered hotels can be found [here]({{ "/logistics" | relative_url }}).
 
 ### Slides and Other Material
 

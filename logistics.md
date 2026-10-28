@@ -3,7 +3,23 @@ title: Logistics (Accommodations, Transportation)
 ---
 
 ## Accommodations and Transportation:
-More information on accommodation and transportation will be added in the near future!
+The city and the campus can easily be reached from Gothenburg Landvetter Airport within approximately 25 minutes by shuttle bus. We have partnered up with several hotels and hostels to provide options for cheaper accommodation tor the duration of the summer school. Dedicated booking links and discount codes will be provided upon request after registration for the summer school. Please find the list of accommodations below:
+
+**Hotels:**
+<br>
+ [Hotel Loresberg](https://www.hotel-lorensberg.se/?lang=en) |  [Location](https://maps.app.goo.gl/AXqTytLhbWjvHGpq5)
+ <br>
+ [Comfort Hotel™ Göteborg](https://www.strawberryhotels.com/hotels/sweden/gothenburg/comfort-hotel-goteborg/) | [Location](https://maps.app.goo.gl/CjHEXtHLiwDygsx46)
+ <br>
+ [Sandic Opalen](https://www.scandichotels.com/en/hotels/scandic-opalen) | [Location](https://maps.app.goo.gl/QGUEuLnFtiYxNpfb8)
+ <br>
+ [Scandic Rubinen](https://www.scandichotels.com/en/hotels/scandic-rubinen) | [Location](https://maps.app.goo.gl/wPrKuoQyTyjB2N2o8)
+
+**Hostels:** (good for sharing rooms with other attendees)
+<br>
+[Göteborgs Vandrarhem](http://www.goteborgsvandrarhem.se/en) |
+[Location](https://maps.app.goo.gl/MoexnYtK8NhpeK136)
+
 ## Meals and Social Events:
 
 We will provide two coffee breaks and lunch for participants each day and will have select evening activities. We will also organize a welcome reception, a farewell event and a banquet dinner.
