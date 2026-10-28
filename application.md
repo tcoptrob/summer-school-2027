@@ -4,6 +4,8 @@ title: Applicants Selection
 
 # Application Selection Procedure
 
+> You can register to attend through [this form]({{ "https://docs.google.com/forms/d/e/1FAIpQLSccRqJg_vif5ZJ47evAv_myw2b03uRIvv3cDDS_k1JcZCxxkw/viewform?usp=header" }})!
+
 We aim to have 100 participants, targeting **master students, early PhD students or Junior faculty**, with at least 50 of them being RAS student members. To achieve this, we will give preference to RAS student members during the selection process and subsequently to individuals who share relevant interests. In particular, we will select the participants according to the following:
 
 - The applications are processed on a rolling basis (with 15-20 days of intervals).

@@ -1,13 +1,4 @@
 organizers:
-  - name: "Konstantinos Chatzilygeroudis"
-    affiliation:
-      role: "Assistant Professor"
-      org_name: "University of Patras"
-      url: "https://lar.upatras.gr"
-    website:
-      title: "Personal Website"
-      url: "https://costashatz.github.io/"
-    image_url: "/assets/team/konstantinos.jpg"
   - name: "Shivesh Kumar"
     affiliation:
       role: "Assistant Professor"
@@ -17,6 +8,15 @@ organizers:
       title: "Personal Website"
       url: "https://www.chalmers.se/en/persons/shivesh/"
     image_url: "/assets/team/shivesh.png"
+  - name: "Konstantinos Chatzilygeroudis"
+    affiliation:
+      role: "Assistant Professor"
+      org_name: "University of Patras"
+      url: "https://lar.upatras.gr"
+    website:
+      title: "Personal Website"
+      url: "https://costashatz.github.io/"
+    image_url: "/assets/team/konstantinos.jpg"
   - name: "Zachary Manchester"
     affiliation:
       role: "Assistant Professor"

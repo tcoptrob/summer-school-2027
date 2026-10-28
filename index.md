@@ -10,7 +10,7 @@ title: Optimization for Robotics Summer School 2027
   </right>
 </figure>
 
-<!-- <br>[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }})! See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details. -->
+> [Register to attend (Early-bird until **1st April 2027**)]({{ "https://docs.google.com/forms/d/e/1FAIpQLSccRqJg_vif5ZJ47evAv_myw2b03uRIvv3cDDS_k1JcZCxxkw/viewform?usp=header" }})! See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details.
 
 <div class="message">
   To learn more about the IEEE RAS TC on Optimization for Robotics, please visit <a href="https://tcoptrob.org"> their webpage</a>!

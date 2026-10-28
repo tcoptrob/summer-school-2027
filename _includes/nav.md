@@ -10,5 +10,7 @@
 June 7-11, 2027
 * [Logistics and Venue]({{ "/logistics" | relative_url }})
 * [Applicant Selection]({{ "/application" | relative_url }})
+* [Previous Edition]({{ "/previous" | relative_url }})
+Patras 2025
 * [Sponsor the School]({{ "/sponsorship" | relative_url }})
 * [Organizers and Speakers]({{ "/team" | relative_url }})
