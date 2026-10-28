@@ -82,8 +82,8 @@ days:
     speakers:
     - name: "Zachary Manchester"
       affiliation:
-        name: "Carnegie Mellon University"
-        website: "https://rexlab.ri.cmu.edu/"
+        name: "Massachusetts Institute of Technology"
+        website: "https://roboticexplorationlab.org/"
       # - name: "Luca Carlone"
       #   affiliation:
       #     name: "Massachusetts Institute of Technology (MIT)"
