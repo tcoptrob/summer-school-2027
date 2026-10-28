@@ -20,11 +20,11 @@ organizers:
   - name: "Zachary Manchester"
     affiliation:
       role: "Assistant Professor"
-      org_name: "Carnegie Mellon University"
-      url: "https://www.ri.cmu.edu/"
+      org_name: "Massachusetts Institute of Technology"
+      url: "https://www.mit.edu/"
     website:
       title: "Lab Website"
-      url: "https://rexlab.ri.cmu.edu/"
+      url: "https://roboticexplorationlab.org/"
     image_url: "/assets/team/zac.jpg"
   - name: "Brian Plancher"
     affiliation:

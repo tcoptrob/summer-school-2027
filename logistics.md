@@ -6,7 +6,7 @@ title: Logistics (Accommodations, Transportation)
 More information on accommodation and transportation will be added in the near future!
 ## Meals and Social Events:
 
-We will provide two coffee breaks and lunch for participants each day and will have select evening activities. We will also organize a welcome reception, a farewell event and a dinner.
+We will provide two coffee breaks and lunch for participants each day and will have select evening activities. We will also organize a welcome reception, a farewell event and a banquet dinner.
 Additionally, participants will have the option of joining a voluntary sightseeing visit of the city and the surrounding archipelago.
 
 The full detailed schedule will be made available soon!

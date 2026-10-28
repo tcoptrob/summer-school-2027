@@ -78,5 +78,11 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
   </left>
 </figure>
 #### Platinum Sponsors
+<figure class="figure">
+  <left>
+  <img src="{{ site.baseurl }}/assets/logos/Chalmers.png" alt="IEEE RAS" class="vid-fluid rounded center" width="500">
+  </left>
+</figure>
 #### Gold Sponsors
+#### Silver Sponsors
 #### Bronze Sponsors
