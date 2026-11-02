@@ -11,7 +11,7 @@ days:
     schedule:
       - time: "Lecture"
         name: "Introduction to Optimization"
-      - time: "Plenary Talk"
+      - time: "Keynote"
         name: "Recent Progress in Legged Robotics"
       - time: "Lecture"
         name: "Optimization-based Robotics Dynamics"
@@ -36,7 +36,7 @@ days:
     schedule:
       - time: "Lecture"
         name: "Trajectory optimization"
-      - time: "Plenary Talk"
+      - time: "Keynote"
         name: "Robot Co-Design"
       - time: "Lecture"
         name: "Model Predictive Control"
@@ -58,7 +58,7 @@ days:
     schedule:
       - time: "Lecture"
         name: "Reinforcement Learning"
-      - time: "Plenary Talk"
+      - time: "Keynote"
         name: "Combining Reinforcement Learning & optimal control"
       - time: "Lecture"
         name: "Sim2Real Transfer"
@@ -107,7 +107,7 @@ days:
     schedule:
       - time: "Hardware Hackathon"
         name: "Simulation Validation"
-      - time: "Plenary"
+      - time: "Keynote"
         name: "Industry Presentations"
       - time: "Hardware Hackathon"
         name: "Robot Deployment"
