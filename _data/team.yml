@@ -45,5 +45,12 @@ organizers:
       url: "https://members.loria.fr/EMingoHoffman/"
     image_url: "/assets/team/enrico.jpg"
 speakers:
- 
-
+  - name: "Sebastien Nicolas Gros (Keynote speaker)"
+    affiliation:
+      role: "Professor"
+      org_name: "Norwegian University of Science and Technology (NTNU)"
+      url: "https://www.ntnu.edu"
+    website:
+      title: "Personal Website"
+      url: "https://www.ntnu.edu/employees/sebastien.gros"
+    image_url: "/assets/team/sebastien.jpg"

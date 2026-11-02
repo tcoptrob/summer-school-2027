@@ -19,6 +19,9 @@ The city and the campus can easily be reached from Gothenburg Landvetter Airport
 <br>
 [Göteborgs Vandrarhem](http://www.goteborgsvandrarhem.se/en) |
 [Location](https://maps.app.goo.gl/MoexnYtK8NhpeK136)
+<br>
+[Holterman Hostel](https://www.holterman.se/en) |
+[Location](https://maps.app.goo.gl/za7LTSqcrxdADv3HA)
 
 ## Meals and Social Events:
 

@@ -30,13 +30,19 @@ The Optimization for Robotics Summer School will cover:
 **Targeted Attendance:** 100 master students, PhD students or early career researchers/faculty
 
 **Attendee Cost:**
-+ Registration without accommodation:
-   + Early-bird (until April 1st, 2027): €**X**
-   + Standard: €**X**
-   + Late/On-site: €**X**
-+ Travel awards and/or fee waivers will be given to selected students
 
- See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details.
+Registration without accommodation (Excluding VAT and bank transaction charges):
+   + Early-bird (until April 1st, 2027): 
+     + 5000 SEK ([IEEE RAS members](https://www.ieee-ras.org/membership/))
+     + 6000 SEK (Non-members)
+   + Standard:
+     + 6000 SEK ([IEEE RAS members](https://www.ieee-ras.org/membership/))
+     + 7000 SEK (Non-members)
+   + Late/On-site:
+     + 7000 SEK ([IEEE RAS members](https://www.ieee-ras.org/membership/))
+     + 8000 SEK (Non-members)
+    
+Travel awards and/or fee waivers will be given to selected students. Please see the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details.
 
 <!-- + Registration with accommodation: €650-800 -->
 
@@ -80,7 +86,8 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
 #### Platinum Sponsors
 <figure class="figure">
   <left>
-  <img src="{{ site.baseurl }}/assets/logos/Chalmers.png" alt="IEEE RAS" class="vid-fluid rounded center" width="500">
+  <img src="{{ site.baseurl }}/assets/logos/chalmers_2.png" alt="Chalmers area of advance production" class="vid-fluid rounded center" width="180">
+  <img src="{{ site.baseurl }}/assets/logos/chalmers_3.png" alt="Chalmers AI Research centre" class="vid-fluid rounded center" width="135">
   </left>
 </figure>
 #### Gold Sponsors

@@ -65,6 +65,10 @@ days:
       affiliation:
         name: "University of Patras"
         website: "https://lar.upatras.gr/"
+    - name: "Sebastien Nicolas Gros (Keynote speaker)"
+      affiliation: 
+        name: "Norwegian University of Science and Technology (NTNU)"
+        website: "https://www.ntnu.edu"
     - name: "Shivesh Kumar"
       affiliation:
         name: "Chalmers University of Technology"
