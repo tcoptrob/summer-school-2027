@@ -45,7 +45,16 @@ organizers:
       url: "https://members.loria.fr/EMingoHoffman/"
     image_url: "/assets/team/enrico.jpg"
 speakers:
-  - name: "Sebastien Nicolas Gros (Keynote speaker)"
+  - name: "Hae-Won Park"
+    affiliation:
+      role: "Associate Professor"
+      org_name: "Korea Advanced Institute of Science and Technology (KAIST)"
+      url: "https://www.kaist.ac.kr/en/"
+    website:
+      title: "Lab Website"
+      url:  "https://www.dynamicrobot.kaist.ac.kr/"
+    image_url: "/assets/team/haewon.jpeg"
+  - name: "Sebastien Nicolas Gros"
     affiliation:
       role: "Professor"
       org_name: "Norwegian University of Science and Technology (NTNU)"
