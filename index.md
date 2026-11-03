@@ -92,4 +92,9 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
 </figure>
 #### Gold Sponsors
 #### Silver Sponsors
+<figure class="figure">
+  <left>
+  <img src="{{ site.baseurl }}/assets/logos/tata.png" alt="Tata consultancy services" class="vid-fluid rounded center" width="400">
+  </left>
+</figure>
 #### Bronze Sponsors
