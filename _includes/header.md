@@ -22,5 +22,10 @@ Optimization for Robotics Summer School<br>
 <br/>
 <br/>
 <a style="text-decoration:none" href="https://www.chalmers.se/en/research/centres/chair/">
-  <img src="{{ '/assets/logos/tata.png' | relative_url }}" alt="Chalmers AI Research centre" style="height: 2.5rem">
+  <img src="{{ '/assets/logos/amazon.png' | relative_url }}" alt="Amazon" style="height: 2.2rem">
+</a>
+<br/>
+<br/>
+<a style="text-decoration:none" href="https://www.chalmers.se/en/research/centres/chair/">
+  <img src="{{ '/assets/logos/tata.png' | relative_url }}" alt="Tata consultancy services" style="height: 2.3rem">
 </a>

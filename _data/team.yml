@@ -63,3 +63,13 @@ speakers:
       title: "Personal Website"
       url: "https://www.ntnu.edu/employees/sebastien.gros"
     image_url: "/assets/team/sebastien.jpg"
+industry:
+  - name: "Diego Romeres"
+    affiliation:
+      role: "Senior Applied Scientiest in Robotics"
+      org_name: "Amazon"
+      url: "https://www.amazon.com/"
+    website:
+      title: "Linkedin"
+      url:  "https://www.linkedin.com/in/diego-romeres-b390bb43/"
+    image_url: "/assets/team/diego.jpeg"

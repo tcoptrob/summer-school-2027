@@ -91,6 +91,11 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
   </left>
 </figure>
 #### Gold Sponsors
+<figure class="figure">
+  <left>
+  <img src="{{ site.baseurl }}/assets/logos/amazon.png" alt="Amazon" class="vid-fluid rounded center" width="420">
+  </left>
+</figure>
 #### Silver Sponsors
 <figure class="figure">
   <left>

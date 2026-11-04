@@ -111,4 +111,8 @@ days:
         name: "Industry Presentations"
       - time: "Hardware Hackathon"
         name: "Robot Deployment"
-
+    speakers:
+    - name: "Diego Romeres"
+      affiliation:
+        name: "Amazon"
+        website: "https://www.amazon.com/"
