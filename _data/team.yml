@@ -63,6 +63,15 @@ speakers:
       title: "Personal Website"
       url: "https://www.ntnu.edu/employees/sebastien.gros"
     image_url: "/assets/team/sebastien.jpg"
+  - name: "Taeyoon Lee"
+    affiliation:
+      role: "Research Scientist"
+      org_name: "Robotics and AI Institute (RAI)"
+      url: "https://rai-inst.com/"
+    website:
+      title: "Personal Website"
+      url: "https://sites.google.com/view/taeyoon-lee"
+    image_url: "/assets/team/taeyoon.jpeg"
 industry:
   - name: "Diego Romeres"
     affiliation:

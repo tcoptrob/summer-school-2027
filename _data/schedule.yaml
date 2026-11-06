@@ -73,6 +73,10 @@ days:
       affiliation: 
         name: "Norwegian University of Science and Technology (NTNU)"
         website: "https://www.ntnu.edu"
+    - name: "Taeyoon Lee"
+      affiliation:
+        name: "Robotics and AI Institute (RAI)"
+        website: "https://rai-inst.com/"
     - name: "Shivesh Kumar"
       affiliation:
         name: "Chalmers University of Technology"
